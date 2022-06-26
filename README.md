@@ -1,8 +1,6 @@
 СИСТЕМА АНАЛИЗА РОССИЙСКОГО РЫНКА СРЕДСТВ ИЗМЕРЕНИЙ
 =============================
 
-Thank you for choosing Yii - a high-performance component-based PHP framework.
-
 
 РЕАЛИЗОВАННАЯ ФУНКЦИОНАЛЬНОСТЬ
 ------------
